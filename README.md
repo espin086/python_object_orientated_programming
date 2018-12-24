@@ -16,7 +16,7 @@ Python, including:
 The Case Studies folder includes example Object-Orientated Python Modules.
 These include case studies on:
 
-* **notebook**: Simple command-line notebook applications
+* **notebook**: [Simple command-line notebook applications](https://github.com/espin086/python_object_orientated_programming/tree/master/case_studies/notebook)
 
 * **property_management**: Real estate application for agents to manage properties for sale or rent
 
